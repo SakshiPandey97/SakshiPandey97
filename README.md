@@ -1,4 +1,4 @@
-🌟 Hello! I'm Sakshi Pandey, a passionate Data Scientist 📊 and Bioinformatician 🔬. I thrive on solving complex challenges at the nexus of data science and healthcare. 🏥
+🌸 Hello! I'm Sakshi Pandey, a passionate Data Scientist 📊 and Bioinformatician 🔬. I thrive on solving complex challenges at the nexus of data science and healthcare. 🏥
 
 👩‍💻 My journey in computer science at the University of Florida 🐊, coupled with a solid foundation in bioinformatics from DY Patil University, has empowered me to innovate in algorithm design and data analysis.
 
